@@ -1,2 +1,3 @@
-console,console.error("Halp!")
+console.error("Halp!")
 console.log("Jesse")
+console.warn("Lopez")
